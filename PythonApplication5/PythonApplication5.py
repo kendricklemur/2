@@ -8,3 +8,4 @@ for i in range(2,b+1):
     ciag.append(wynik)
 
 print(wynik)
+print("dupa jasiu")
